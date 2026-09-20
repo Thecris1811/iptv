@@ -166,7 +166,7 @@ http://liontv.es:8080/live/WarrenOcampo/wG3SeSq2ge/555458.m3u8
 #EXTINF:-1 tvg-id="Fox.Sports.1.co" tvg-name="FOX ONE 1" tvg-logo="https://es.wikipedia.org/wiki/Archivo:FOX_Deportes_logo.png" group-title="⚽ DEPORTES",FOX ONE 1
 http://lotv.plus/live/Alberto123/Alberto123/476109.m3u8
 #EXTINF:-1 tvg-id="Fox.Sports.1.co" tvg-name="FOX ONE 2" tvg-logo="https://es.wikipedia.org/wiki/Archivo:FOX_Deportes_logo.png" group-title="⚽ DEPORTES",FOX ONE 2
-http://liontv.es:8080/live/WarrenOcampo/wG3SeSq2ge/555458.m3u8
+http://liontv.es:8080/live/HugoRamirez/HugoRamirez/1600018.m3u8
 
 #EXTINF:-1 tvg-id="AZTECA" tvg-name="AZTECA DEPORTES" tvg-logo="" group-title="⚽ DEPORTES",AZTECA DEPORTES
 http://45.167.1.137:8000/play/a01c
@@ -191,13 +191,16 @@ http://45.5.118.139:8000/play/a07m/index.m3u8
 http://livetv-plus.com:8880/OTlSRkExUVZ3a0gvY3d3azdpd1M2K1JWTWU0Qk1udG1JdE1WRlNtNVB3MD0
 
 #EXTINF:-1 tvg-id="Bein.Sports.co" tvg-name="BEIN SPORT LATAM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/BeIN_Sports_en_Espa%C3%B1ol_2014_flat.svg/revision/latest?cb=20250511000522" group-title="⚽ DEPORTES",BEIN SPORT 1 
-http://liontv.es:8080/live/WarrenOcampo/wG3SeSq2ge/335364.m3u8
+http://liontv.es:8080/live/HugoRamirez/HugoRamirez/1396929.m3u8
 http://smarterstv99.dyndns.tv:25461/live/Royevo100/dDxZaLXmcauc/488239.m3u8
 #EXTINF:-1 tvg-id="Bein.Sports.Alt.co" tvg-name="BEIN SPORT LATAM (ALT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="⚽ DEPORTES",BEIN SPORT 2
 https://bein-esp-xumo.amagi.tv:443/playlistR720P.m3u8
 
+#EXTINF:-1 tvg-id="SKY.SPORTS.Alt.co" tvg-name="SKY SPORTS LATAM (ALT)" group-title="⚽ DEPORTES",SKY SPORTS
+http://liontv.es:8080/live/HugoRamirez/HugoRamirez/341550.m3u8
+
 #EXTINF:-1 tvg-id="Fox.Sports.1.co" tvg-name="FOX SPORTS 1 ARG" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBKOTIV4JcdOmZTXPRSqu3Yt2hoxA8-9SF89nGTxkr7lq3kt2PjtcRhd1La2nJ37Awum571vCh2uRmxlDWVLGPueTspWV1Lgo5zYBQzQnSMri1QKFh6fEvyDoSsF3YQ7oC0XquBeTeEFEHmLc6-Yvqb5Vrl5KepDmmCW7hgIAHiThCgLePPU-8G-O_/s201/fsp-2023.png" group-title="⚽ DEPORTES",FOX SPORTS 1 ARG
-http://181.209.105.115:2525/play/foxsports/index.m3u8
+http://liontv.es:8080/live/HugoRamirez/HugoRamirez/843875.m3u8
 #EXTINF:-1 tvg-id="Fox.Sports.2.co" tvg-name="FOX SPORTS 2 ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/250px-Fox_Sports_2_Argentina_2023.svg.png" group-title="⚽ DEPORTES",FOX SPORTS 2 ARG
 http://liontv.es:8080/live/Erick23/Sanchez2023/92.m3u8
 #EXTINF:-1 tvg-id="Fox.Sports3.co" tvg-name="FOX SPORTS 3 ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Fox_Sports_3_Argentina_2023.svg" group-title="⚽ DEPORTES",FOX SPORTS 3 ARG

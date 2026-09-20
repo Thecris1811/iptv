@@ -1,7 +1,6 @@
 #EXTM3U
 
 ====Nacional====
-
 #EXTINF:-1 tvg-id="Caracol.co" tvg-name="CARACOL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/1280px-Caracol_TV_HD_logo.svg.png" group-title="📺 NACIONALES / TDT",CARACOL HD
 http://181.78.8.199:8000/play/a0b0/index.m3u8
 #EXTINF:-1 tvg-id="Caracol2.co" tvg-name="CARACOL HD2 TDT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Caracol_hd2_2015.png/revision/latest/scale-to-width-down/200?cb=20210218135243&path-prefix=es" group-title="📺 NACIONALES / TDT",CARACOL HD2 TDT
@@ -46,7 +45,6 @@ https://liveingesta118.cdnmedia.tv/trecetvlive/smil:rtmp01.smil/playlist.m3u8
 http://181.78.8.199:8000/play/a0dv/index.m3u8
 
 ===== Deportes ======
-
 #EXTINF:-1 tvg-id="WinSports.co" tvg-name="WIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/3840px-Win_Sports_nuevo_logo.svg.png" group-title="⚽ DEPORTES",WIN SPORTS
 http://181.78.8.199:8000/play/a0cc/index.m3u8
 http://181.78.8.199:8000/play/a0ic/index.m3u8
@@ -164,11 +162,11 @@ http://liontv.es:8080/live/WarrenOcampo/wG3SeSq2ge/1599543.m3u8
 https://estrellatv-oando.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Fox.Sports.1.co" tvg-name="FOX DEPORTES" tvg-logo="https://es.wikipedia.org/wiki/Archivo:FOX_Deportes_logo.png" group-title="⚽ DEPORTES",FOX DEPORTES
-http://liontv.es:8080/live/Erick23/Sanchez2023/834953.m3u8
+http://liontv.es:8080/live/WarrenOcampo/wG3SeSq2ge/555458.m3u8
 #EXTINF:-1 tvg-id="Fox.Sports.1.co" tvg-name="FOX ONE 1" tvg-logo="https://es.wikipedia.org/wiki/Archivo:FOX_Deportes_logo.png" group-title="⚽ DEPORTES",FOX ONE 1
 http://lotv.plus/live/Alberto123/Alberto123/476109.m3u8
 #EXTINF:-1 tvg-id="Fox.Sports.1.co" tvg-name="FOX ONE 2" tvg-logo="https://es.wikipedia.org/wiki/Archivo:FOX_Deportes_logo.png" group-title="⚽ DEPORTES",FOX ONE 2
-http://smarterstv99.dyndns.tv:25461/live/Viniciohern01/cvs4rSXCCztK/583586.m3u8
+http://liontv.es:8080/live/WarrenOcampo/wG3SeSq2ge/555458.m3u8
 
 #EXTINF:-1 tvg-id="AZTECA" tvg-name="AZTECA DEPORTES" tvg-logo="" group-title="⚽ DEPORTES",AZTECA DEPORTES
 http://45.167.1.137:8000/play/a01c
@@ -192,9 +190,10 @@ http://45.167.1.137:8000/play/a00e
 http://45.5.118.139:8000/play/a07m/index.m3u8
 http://livetv-plus.com:8880/OTlSRkExUVZ3a0gvY3d3azdpd1M2K1JWTWU0Qk1udG1JdE1WRlNtNVB3MD0
 
-#EXTINF:-1 tvg-id="Bein.Sports.co" tvg-name="BEIN SPORT LATAM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/BeIN_Sports_en_Espa%C3%B1ol_2014_flat.svg/revision/latest?cb=20250511000522" group-title="⚽ DEPORTES",BEIN SPORT LATAM
+#EXTINF:-1 tvg-id="Bein.Sports.co" tvg-name="BEIN SPORT LATAM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/BeIN_Sports_en_Espa%C3%B1ol_2014_flat.svg/revision/latest?cb=20250511000522" group-title="⚽ DEPORTES",BEIN SPORT 1 
+http://liontv.es:8080/live/WarrenOcampo/wG3SeSq2ge/335364.m3u8
 http://smarterstv99.dyndns.tv:25461/live/Royevo100/dDxZaLXmcauc/488239.m3u8
-#EXTINF:-1 tvg-id="Bein.Sports.Alt.co" tvg-name="BEIN SPORT LATAM (ALT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="⚽ DEPORTES",BEIN SPORT LATAM
+#EXTINF:-1 tvg-id="Bein.Sports.Alt.co" tvg-name="BEIN SPORT LATAM (ALT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="⚽ DEPORTES",BEIN SPORT 2
 https://bein-esp-xumo.amagi.tv:443/playlistR720P.m3u8
 
 #EXTINF:-1 tvg-id="Fox.Sports.1.co" tvg-name="FOX SPORTS 1 ARG" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBKOTIV4JcdOmZTXPRSqu3Yt2hoxA8-9SF89nGTxkr7lq3kt2PjtcRhd1La2nJ37Awum571vCh2uRmxlDWVLGPueTspWV1Lgo5zYBQzQnSMri1QKFh6fEvyDoSsF3YQ7oC0XquBeTeEFEHmLc6-Yvqb5Vrl5KepDmmCW7hgIAHiThCgLePPU-8G-O_/s201/fsp-2023.png" group-title="⚽ DEPORTES",FOX SPORTS 1 ARG
@@ -215,18 +214,19 @@ http://181.79.87.130:8000/play/a0e0/index.m3u8
 http://38.236.184.24:8000/play/a03g/index.m3u8
 
 #EXTINF:-1 tvg-id="DAZN.1.co" tvg-name="DAZN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/3840px-DAZN_logo.svg.png" group-title="⚽ DEPORTES",DAZN 1
-http://neospaxy.top:8080/Daniel1234/1234/57475
-#EXTINF:-1 tvg-id="DAZN.2.co" tvg-name="DAZN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/DAZN_2.svg" group-title="⚽ DEPORTES",DAZN 2 HD
-http://neospaxy.top:8080/Daniel1234/1234/5590
+http://liontv.es:8080/live/WarrenOcampo/wG3SeSq2ge/1599551.m3u8
+http://liontv.es:8080/live/WarrenOcampo/wG3SeSq2ge/345248.m3u8
+#EXTINF:-1 tvg-id="DAZN.2.co" tvg-name="DAZN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/DAZN_2.svg" group-title="⚽ DEPORTES",DAZN 2 
+http://liontv.es:8080/live/WarrenOcampo/wG3SeSq2ge/1621071.m3u8
 
 #EXTINF:-1 tvg-id="Movistar.Deportes.pe" tvg-name="MOVISTAR DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/960px-Movistar_Deportes.svg.png" group-title="⚽ DEPORTES",MOVISTAR DEPORTES
-http://livetv-plus.com/live/AMayorga/VSQYM/203769.m3u8
+http://liontv.es:8080/live/WarrenOcampo/wG3SeSq2ge/1621030.m3u8
 http://liontv.es:8080/live/Erick23/Sanchez2023/1621024.m3u8
-#EXTINF:-1 tvg-id="Movistar.Deportes2.pe" tvg-name="MOVISTAR DEPORTES 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar_Deportes_2.svg/1280px-Movistar_Deportes_2.svg.png" group-title="⚽ DEPORTES",MOVISTAR DEPORTES 2
-http://livetv-plus.com/live/AMayorga/VSQYM/203795.m3u8
+#EXTINF:-1 tvg-id="Movistar.Deportes2.pe" tvg-name="MOVISTAR DEPORTES 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar_Deportes_2.svg/1280px-Movistar_Deportes_2.svg.png" group-title="⚽ DEPORTES",MOVISTAR LA LIGA
+http://liontv.es:8080/live/WarrenOcampo/wG3SeSq2ge/1620976.m3u8
 http://myultratv.com:8080/live/982298588tv/sr417z/12302.m3u8
-#EXTINF:-1 tvg-id="Movistar.Deportes2.pe" tvg-name="MOVISTAR DEPORTES 2 LIGA DE CAMPEONES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar_Deportes_2.svg/1280px-Movistar_Deportes_2.svg.png" group-title="⚽ DEPORTES",MOVISTAR DEPORTES 2 LIGA DE CAMPEONES
-http://livetv-plus.com/live/AMayorga/VSQYM/186861.m3u8
+#EXTINF:-1 tvg-id="Movistar.Deportes2.pe" tvg-name="MOVISTAR DEPORTES 2 LIGA DE CAMPEONES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar_Deportes_2.svg/1280px-Movistar_Deportes_2.svg.png" group-title="⚽ DEPORTES",MOVISTAR + LIGA DE CAMPEONES
+http://liontv.es:8080/live/WarrenOcampo/wG3SeSq2ge/1620959.m3u8
 
 #EXTINF:-1 tvg-id="GolTV.co" tvg-name="GOL TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png" group-title="⚽ DEPORTES",GOL TV HD
 http://smarterstv99.dyndns.tv:25461/live/Viniciohern01/cvs4rSXCCztK/334794.m3u8
@@ -417,3 +417,41 @@ http://209.14.119.178:8000/play/a01h/index.m3u8
 http://209.14.119.178:8000/play/a052/index.m3u8
 #EXTINF:-1 tvg-id="Univision.co" tvg-name="UNIVISION" group-title="NOVELAS",UNIVISION
 http://209.14.119.178:8000/play/a04b/index.m3u8
+
+==== Maratones ====
+#EXTINF:-1 tvg-id="ElChavo.co" tvg-name="EL CHAVO" group-title="24/7",EL CHAVO
+http://liontv.es:8080/live/WarrenOcampo/wG3SeSq2ge/555458.m3u8
+#EXTINF:-1 tvg-id="ElChapulinColorado.co" tvg-name="EL CHAPULIN COLORADO" group-title="24/7",EL CHAPULIN COLORADO
+http://liontv.es:8080/live/WarrenOcampo/wG3SeSq2ge/515310.m3u8
+#EXTINF:-1 tvg-id="Ben10.co" tvg-name="BEN 10" group-title="24/7",BEN 10
+http://liontv.es:8080/live/WarrenOcampo/wG3SeSq2ge/766045.m3u8
+#EXTINF:-1 tvg-id="BetterCallSaul.co" tvg-name="BETTER CALL SAUL" group-title="24/7",BETTER CALL SAUL
+http://liontv.es:8080/live/WarrenOcampo/wG3SeSq2ge/458359.m3u8
+#EXTINF:-1 tvg-id="BreakingBad.co" tvg-name="BREAKING BAD" group-title="24/7",BREAKING BAD
+http://liontv.es:8080/live/WarrenOcampo/wG3SeSq2ge/458358.m3u8
+#EXTINF:-1 tvg-id="DragonBallZ.co" tvg-name="DRAGON BALL Z" group-title="24/7",DRAGON BALL Z
+http://liontv.es:8080/live/WarrenOcampo/wG3SeSq2ge/799879.m3u8
+#EXTINF:-1 tvg-id="DragonBallSuper.co" tvg-name="DRAGON BALL SUPER" group-title="24/7",DRAGON BALL SUPER
+http://liontv.es:8080/live/WarrenOcampo/wG3SeSq2ge/358800.m3u8
+#EXTINF:-1 tvg-id="ExpedienteX.co" tvg-name="EXPEDIENTE X" group-title="24/7",EXPEDIENTE X
+http://liontv.es:8080/live/WarrenOcampo/wG3SeSq2ge/837088.m3u8
+#EXTINF:-1 tvg-id="Futurama.co" tvg-name="FUTURAMA" group-title="24/7",FUTURAMA
+http://liontv.es:8080/live/WarrenOcampo/wG3SeSq2ge/459362.m3u8
+#EXTINF:-1 tvg-id="LooneyTunes.co" tvg-name="LOONEY TUNES" group-title="24/7",LOONEY TUNES
+http://liontv.es:8080/live/WarrenOcampo/wG3SeSq2ge/459356.m3u8
+#EXTINF:-1 tvg-id="LosPadrinosMagicos.co" tvg-name="LOS PADRINOS MAGICOS" group-title="24/7",LOS PADRINOS MAGICOS
+http://liontv.es:8080/live/WarrenOcampo/wG3SeSq2ge/766990.m3u8
+#EXTINF:-1 tvg-id="OnePiece.co" tvg-name="ONE PIECE" group-title="24/7",ONE PIECE
+http://liontv.es:8080/live/WarrenOcampo/wG3SeSq2ge/457025.m3u8
+#EXTINF:-1 tvg-id="TheBigBangTheory.co" tvg-name="THE BIG BANG THEORY" group-title="24/7",THE BIG BANG THEORY
+http://liontv.es:8080/live/WarrenOcampo/wG3SeSq2ge/762438.m3u8
+#EXTINF:-1 tvg-id="TerrorYSuspenso.co" tvg-name="TERROR Y SUSPENSO" group-title="24/7",TERROR Y SUSPENSO
+http://liontv.es:8080/live/WarrenOcampo/wG3SeSq2ge/817479.m3u8
+#EXTINF:-1 tvg-id="Accion.co" tvg-name="ACCION" group-title="24/7",ACCION
+http://liontv.es:8080/live/WarrenOcampo/wG3SeSq2ge/817475.m3u8
+#EXTINF:-1 tvg-id="CienciaFiccion.co" tvg-name="CIENCIA FICCION" group-title="24/7",CIENCIA FICCION
+http://liontv.es:8080/live/WarrenOcampo/wG3SeSq2ge/817468.m3u8
+#EXTINF:-1 tvg-id="Terror.co" tvg-name="TERROR" group-title="24/7",TERROR
+http://liontv.es:8080/live/WarrenOcampo/wG3SeSq2ge/817472.m3u8
+#EXTINF:-1 tvg-id="Comedia.co" tvg-name="COMEDIA" group-title="24/7",COMEDIA
+http://liontv.es:8080/live/WarrenOcampo/wG3SeSq2ge/817469.m3u8

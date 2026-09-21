@@ -422,7 +422,7 @@ http://209.14.119.178:8000/play/a01h/index.m3u8
 #EXTINF:-1 tvg-id="TNTNovelas.co" tvg-name="TNT NOVELAS" group-title="NOVELAS",TNT NOVELAS
 http://209.14.119.178:8000/play/a052/index.m3u8
 #EXTINF:-1 tvg-id="Univision.co" tvg-name="UNIVISION" group-title="NOVELAS",UNIVISION
-http://181.78.8.199:8000/play/a0kn/index.m3u8
+http://181.78.8.199:8000/play/a0er/index.m3u8
 http://209.14.119.178:8000/play/a04b/index.m3u8
 
 ==== Maratones ====

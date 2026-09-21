@@ -54,9 +54,10 @@ http://179.1.14.75:14007/play/a03t/index.m3u8
 http://200.122.232.149:8000/play/a083/index.m3u8
 http://181.78.8.199:8000/play/winsport/index.m3u8
 #EXTINF:-1 tvg-id="WinSports.co" tvg-name="WIN SPORTS + (ALT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Win_Sports_nuevo_logo.svg" group-title="⚽ DEPORTES",WIN SPORTS +
-http://186.33.57.68:9000/play/a092/index.m3u8
+http://190.60.46.228:8000/play/a032/index.m3u8
 http://186.33.57.64:9000/play/a092/index.m3u8
 #EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-name="WIN SPORTS + FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Win%2B_F%C3%BAtbol_logo.svg" group-title="⚽ DEPORTES",WIN SPORTS + HD
+http://181.78.82.130:8000/play/a0ds/index.m3u8
 http://186.33.57.67:9000/play/a092/index.m3u8
 http://181.118.152.45:8000/play/a04l/index.m3u8
 
@@ -320,16 +321,16 @@ http://209.14.119.178:8000/play/a01o/index.m3u8
 #EXTINF:-1 tvg-id="TNT.Series.co" tvg-name="TNT SERIES HD" group-title="PELICULAS Y SERIES",TNT SERIES HD
 http://209.14.119.178:8000/play/a06g/index.m3u8
 #EXTINF:-1 tvg-id="Universal.CHANNEL.co" tvg-name="UNIVERSAL CHANNEL" group-title="PELICULAS Y SERIES",UNIVERSAL CHANNEL
-http://181.79.87.132:8000/play/a00z/index.m3u8
+http://38.95.86.11:61400/play/a05c/index.m3u8
 #EXTINF:-1 tvg-id="UNIVERSAL CINEMA" tvg-name="UNIVERSAL CINEMA" group-title="PELICULAS Y SERIES",UNIVERSAL CINEMA
-http://38.95.86.46:61400/play/a05x/index.m3u8
+http://38.95.86.11:61400/play/a05x/index.m3u8
 http://181.79.87.132:8000/play/a0ev/index.m3u8
 #EXTINF:-1 tvg-id="UNIVERSAL COMEDY" tvg-name="UNIVERSAL COMEDY" group-title="PELICULAS Y SERIES",UNIVERSAL COMEDY
-http://38.95.86.18:61400/play/a04j/index.m3u8
+http://38.95.86.11:61400/play/a04j/index.m3u8
 #EXTINF:-1 tvg-id="UNIVERSAL PREMIERE" tvg-name="UNIVERSAL PREMIERE" group-title="PELICULAS Y SERIES",UNIVERSAL PREMIERE
-http://38.95.86.18:61400/play/a04j/index.m3u8
+http://38.95.86.11:61400/play/a04f/index.m3u8
 #EXTINF:-1 tvg-id="Universal.TV.co" tvg-name="UNIVERSAL TV" group-title="PELICULAS Y SERIES",UNIVERSAL TV
-http://181.79.87.132:8000/play/a005/index.m3u8
+http://38.95.86.11:61400/play/a058/index.m3u8
 #EXTINF:-1 tvg-id="USA.co" tvg-name="USA" group-title="PELICULAS Y SERIES",USA
 http://209.14.119.178:8000/play/a04m/index.m3u8
 #EXTINF:-1 tvg-id="Warner.co" tvg-name="WARNER CHANNEL" group-title="PELICULAS Y SERIES",WARNER CHANNEL

@@ -54,10 +54,10 @@ http://179.1.14.75:14007/play/a03t/index.m3u8
 http://200.122.232.149:8000/play/a083/index.m3u8
 http://181.78.8.199:8000/play/winsport/index.m3u8
 #EXTINF:-1 tvg-id="WinSports.co" tvg-name="WIN SPORTS + (ALT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Win_Sports_nuevo_logo.svg" group-title="⚽ DEPORTES",WIN SPORTS +
-http://190.60.46.228:8000/play/a032/index.m3u8
+http://181.78.82.130:8000/play/a0ds/index.m3u8
 http://186.33.57.64:9000/play/a092/index.m3u8
 #EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-name="WIN SPORTS + FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Win%2B_F%C3%BAtbol_logo.svg" group-title="⚽ DEPORTES",WIN SPORTS + HD
-http://181.78.82.130:8000/play/a0ds/index.m3u8
+http://190.60.46.228:8000/play/a032/index.m3u8
 http://186.33.57.67:9000/play/a092/index.m3u8
 http://181.118.152.45:8000/play/a04l/index.m3u8
 

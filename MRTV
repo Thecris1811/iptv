@@ -52,7 +52,6 @@ http://181.78.82.130:8000/play/a0qs/index.m3u8
 http://181.78.8.199:8000/play/a0cc/index.m3u8
 http://liontv.es:8080/live/Erick23/Sanchez2023/116020.m3u8
 #EXTINF:-1 tvg-id="WinSports.co" tvg-name="WIN SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/3840px-Win_Sports_nuevo_logo.svg.png" group-title="⚽ DEPORTES",WIN SPORTS HD
-http://181.78.8.199:8000/play/winsport/index.m3u8
 http://190.60.46.228:8000/play/a02s/index.m3u8
 http://181.78.8.199:8000/play/a0ic/index.m3u8
 #EXTINF:-1 tvg-id="WinSports.co" tvg-name="WIN SPORTS + (ALT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Win_Sports_nuevo_logo.svg" group-title="⚽ DEPORTES",WIN SPORTS +

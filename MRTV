@@ -145,6 +145,7 @@ http://liontv.es:8080/live/HugoRamirez/HugoRamirez/1377292.m3u8
 #EXTINF:-1 tvg-id="Premiere.2.co" tvg-name="PREMIERE 2" tvg-logo="https://i.pinimg.com/736x/45/85/75/45857537421cf0f7c7b1aab9b2ea6f9b.jpg" group-title="⚽ DEPORTES",PREMIERE 2
 http://lotv.plus/live/Alberto123/Alberto123/386150.m3u8
 #EXTINF:-1 tvg-name="PREMIERE 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Premiere_FC_logo.png/1280px-Premiere_FC_logo.png" group-title="⚽ DEPORTES",PREMIERE 3
+http://45.185.11.126:8000/play/a0av/index.m3u8
 http://lotv.plus/live/Alberto123/Alberto123/386037.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo.co" tvg-name="TELEMUNDO DEPORTES" group-title="⚽ DEPORTES",TELEMUNDO 

@@ -70,8 +70,7 @@ http://181.78.82.130:8000/play/a0r5/index.m3u8
 #EXTINF:-1 tvg-id="DSports.ar" tvg-name="DIRECTV SPORTS ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="⚽ DEPORTES",DIRECTV SPORTS 
 http://liontv.es:8080/live/WarrenOcampo/wG3SeSq2ge/625589.m3u8
 http://181.66.249.25:8000/play/a0m8/index.m3u8
-http://liontv.es:8080/live/Erick23/Sanchez2023/625589.m3u8
-http://myultratv.com:8080/99220144/m8U98Hb6f65e/247839
+http://190.60.57.58:8000/play/a1a0/index.m3u8
 
 #EXTINF:-1 tvg-id="DSports2.ar" tvg-name="DIRECTV SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png" group-title="⚽ DEPORTES",DIRECTV SPORTS 2
 http://190.108.91.64:8000/play/a0jf/index.m3u8
@@ -151,6 +150,7 @@ http://lotv.plus/live/Alberto123/Alberto123/386150.m3u8
 http://lotv.plus/live/Alberto123/Alberto123/386037.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo.co" tvg-name="TELEMUNDO DEPORTES" group-title="⚽ DEPORTES",TELEMUNDO 
+http://186.33.27.9:8000/play/a04q/index.m3u8
 http://liontv.es:8080/live/WarrenOcampo/wG3SeSq2ge/786402.m3u8
 #EXTINF:-1 tvg-id="UNIVERSO.co" tvg-name="UNIVERSO" group-title="⚽ DEPORTES",UNIVERSO
 http://liontv.es:8080/live/WarrenOcampo/wG3SeSq2ge/1599543.m3u8
@@ -160,17 +160,19 @@ https://estrellatv-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox.Sports.1.co" tvg-name="FOX DEPORTES" tvg-logo="https://es.wikipedia.org/wiki/Archivo:FOX_Deportes_logo.png" group-title="⚽ DEPORTES",FOX DEPORTES
 http://liontv.es:8080/live/WarrenOcampo/wG3SeSq2ge/555458.m3u8
 #EXTINF:-1 tvg-id="Fox.Sports.1.co" tvg-name="FOX ONE 1" tvg-logo="https://es.wikipedia.org/wiki/Archivo:FOX_Deportes_logo.png" group-title="⚽ DEPORTES",FOX ONE 1
-http://lotv.plus/live/Alberto123/Alberto123/476109.m3u8
+http://181.79.178.77:8000/play/a0sz/index.m3u8
 #EXTINF:-1 tvg-id="Fox.Sports.1.co" tvg-name="FOX ONE 2" tvg-logo="https://es.wikipedia.org/wiki/Archivo:FOX_Deportes_logo.png" group-title="⚽ DEPORTES",FOX ONE 2
 http://liontv.es:8080/live/HugoRamirez/HugoRamirez/1600018.m3u8
 
-#EXTINF:-1 tvg-id="AZTECA" tvg-name="AZTECA DEPORTES" tvg-logo="" group-title="⚽ DEPORTES",AZTECA DEPORTES
+#EXTINF:-1 tvg-id="AZTECA" tvg-name="AZTECA DEPORTES" tvg-logo="" group-title="⚽ DEPORTES",AZTECA DEPORTES 1
+http://181.78.61.202:8000/play/a01y
 http://45.167.1.137:8000/play/a01c
-http://smarterstv99.dyndns.tv:25461/live/IselaGranad24/CbgVfaaXAqSj/293565.ts
+#EXTINF:-1 tvg-id="AZTECA" tvg-name="AZTECA DEPORTES" tvg-logo="" group-title="⚽ DEPORTES",AZTECA DEPORTES 2
+http://181.78.21.171:8000/play/a00f/index.m3u8
 
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/3840px-TUDN_Logo.svg.png" group-title="⚽ DEPORTES",TUDN MX
+http://190.61.114.186:8000/play/a01o/index.m3u8
 http://45.5.118.139:8000/play/a05p/index.m3u8
-http://45.190.13.8:80/TUDNHD/index.m3u8
 #EXTINF:-1 tvg-id="TUDN.us" tvg-name="TUDN US" tvg-logo="https://newswiresync.com/wp-content/uploads/2025/12/tudn-fortalece-su-equipo-para.jpg" group-title="⚽ DEPORTES",TUDN US
 http://liontv.es:8080/live/WarrenOcampo/wG3SeSq2ge/834954.m3u8
 http://168.228.44.241:9998/play/a0b0/index.m3u8
@@ -192,6 +194,8 @@ http://liontv.es:8080/live/HugoRamirez/HugoRamirez/1396929.m3u8
 https://bein-esp-xumo.amagi.tv:443/playlistR720P.m3u8
 
 #EXTINF:-1 tvg-id="SKY.SPORTS.Alt.co" tvg-name="SKY SPORTS LATAM (ALT)" group-title="⚽ DEPORTES",SKY SPORTS
+http://181.119.99.245:8000/play/a02h/index.m3u8
+http://181.119.99.246:8000/play/a02h/index.m3u8
 http://liontv.es:8080/live/HugoRamirez/HugoRamirez/341550.m3u8
 
 #EXTINF:-1 tvg-id="Fox.Sports.1.co" tvg-name="FOX SPORTS 1 ARG" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBKOTIV4JcdOmZTXPRSqu3Yt2hoxA8-9SF89nGTxkr7lq3kt2PjtcRhd1La2nJ37Awum571vCh2uRmxlDWVLGPueTspWV1Lgo5zYBQzQnSMri1QKFh6fEvyDoSsF3YQ7oC0XquBeTeEFEHmLc6-Yvqb5Vrl5KepDmmCW7hgIAHiThCgLePPU-8G-O_/s201/fsp-2023.png" group-title="⚽ DEPORTES",FOX SPORTS 1 ARG
@@ -229,7 +233,7 @@ http://liontv.es:8080/live/WarrenOcampo/wG3SeSq2ge/1620959.m3u8
 #EXTINF:-1 tvg-id="GolTV.co" tvg-name="GOL TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png" group-title="⚽ DEPORTES",GOL TV HD
 http://smarterstv99.dyndns.tv:25461/live/Viniciohern01/cvs4rSXCCztK/334794.m3u8
 #EXTINF:-1 tvg-id="ECDF.co" tvg-name="ECDF HD" tvg-logo="https://static.elcanaldelfutbol.com/static/images/ECDF512.jpg" group-title="⚽ DEPORTES",ECDF HD
-http://smarterstv99.dyndns.tv:25461/live/IselaGranad24/CbgVfaaXAqSj/73507.ts
+http://181.79.87.132:8000/play/a0ca/index.m3u8
 #EXTINF:-1 tvg-id="la1max.co" tvg-name="LA 1 MAX" group-title="⚽ DEPORTES",LA 1 MAX
 http://190.108.91.64:8000/play/a0ib/index.m3u8
 
@@ -242,6 +246,7 @@ http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/2238.ts
 #EXTINF:-1 tvg-name="V65",V65
 http://181.78.8.199:8000/play/a0if/index.m3u8
 #EXTINF:-1 tvg-id="AZT.Int.co" tvg-name="AZTECA INTERNACIONAL" group-title="NOTICIAS",AZTECA INTERNACIONAL
+http://181.78.43.57:8000/play/a00y
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-id="CNN.Int.co" tvg-name="CNN INTERNACIONAL (MX)" group-title="NOTICIAS",CNN INTERNACIONAL (MX)
 http://181.78.8.199:8000/play/a0jg/index.m3u8
@@ -249,26 +254,29 @@ http://181.78.8.199:8000/play/a0jg/index.m3u8
 http://181.78.8.199:8000/play/a0a6/index.m3u8
 #EXTINF:-1 tvg-id="BBC.co" tvg-name="BBC" group-title="NOTICIAS",BBC
 http://190.108.91.64:8000/play/a0j4/index.m3u8
-#EXTINF:-1 tvg-id="America.TV.co" tvg-name="AMÉRICA TV HD (PERÚ)" group-title="PELICULAS Y SERIES",AMÉRICA TV HD (PERÚ)
-http://190.108.91.64:8000/play/a0f8/index.m3u8
+#EXTINF:-1 tvg-id="America.TV.co" tvg-name="AMÉRICA TV HD (PERÚ)" group-title="PELICULAS Y SERIES",AMÉRICA TV  (PERÚ)
+http://190.60.39.221:8000/play/a08o/index.m3u8
 #EXTINF:-1 tvg-id="Latina.TV.co" tvg-name="LATINA TV" group-title="PELICULAS Y SERIES",LATINA TV
-http://190.93.224.42/LATINA/index.m3u8
+http://181.78.43.57:8000/play/a00a
 #EXTINF:-1 tvg-id="Telefe.co" tvg-name="TELEFE" group-title="NOTICIAS",TELEFE
 http://190.108.91.64:8000/play/a0gs/index.m3u8
 #EXTINF:-1 tvg-id="Antena3.co" tvg-name="ANTENA 3" group-title="NOTICIAS",ANTENA 3
 http://190.108.91.64:8000/play/a0j6/index.m3u8
-#EXTINF:-1 tvg-id="Mega.co" tvg-name="MEGA HD" group-title="NOTICIAS",MEGA HD
+#EXTINF:-1 tvg-id="Mega.co" tvg-name="MEGA HD" group-title="NOTICIAS",MEGA 
 http://190.108.91.64:8000/play/a0df/index.m3u8
-#EXTINF:-1 tvg-id="canal5.mx" tvg-name="CANAL 5 HD MX" group-title="NOTICIAS",CANAL 5 HD MX
+#EXTINF:-1 tvg-id="cana5.mx" tvg-name="CANAL 5 HD MX" group-title="NOTICIAS",CANAL 5 MX
+http://181.119.99.245:8000/play/a00n/index.m3u8
 http://45.5.118.139:8000/play/a05o/index.m3u8
-#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="AZTECA 7 HD MX" group-title="NOTICIAS",AZTECA 7 HD MX
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="AZTECA 7 HD MX" group-title="NOTICIAS",AZTECA 7 MX
+http://186.33.1.71:8000/play/a046/index.m3u8
 http://45.5.118.139:8000/play/a05q/index.m3u8
 
 ==== PELICULAS Y SERIES ====
-
 #EXTINF:-1 tvg-id="AMC.co" tvg-name="AMC" group-title="PELICULAS Y SERIES",AMC
 http://181.79.87.132:8000/play/a0ed/index.m3u8
-#EXTINF:-1 tvg-id="AXN.HD.co" tvg-name="AXN HD" group-title="PELICULAS Y SERIES",AXN HD
+#EXTINF:-1 tvg-id="AMC.SERIES.co" tvg-name="AMC SERIES" group-title="PELICULAS Y SERIES",AMC SERIES
+http://181.79.178.77:8000/play/a0t0/index.m3u8
+#EXTINF:-1 tvg-id="AXN.HD.co" tvg-name="AXN HD" group-title="PELICULAS Y SERIES",AXN
 http://209.14.119.178:8000/play/a01t/index.m3u8
 #EXTINF:-1 tvg-id="CINE FAMILIAR" tvg-name="CINE FAMILIAR" group-title="PELICULAS Y SERIES",CINE FAMILIAR
 http://209.14.119.178:8000/play/a036/index.m3u8
@@ -280,6 +288,7 @@ http://209.14.119.178:8000/play/a035/index.m3u8
 http://181.78.8.199:8000/play/a0kb/index.m3u8
 http://209.14.119.178:8000/play/a01p/index.m3u8
 #EXTINF:-1 tvg-id="Cinemax.co" tvg-name="CINEMAX" group-title="PELICULAS Y SERIES",CINEMAX
+http://190.102.120.20:8000/play/a00b/index.m3u8
 http://209.14.119.178:8000/play/a05q/index.m3u8
 #EXTINF:-1 tvg-id="CLARO CINEMA" tvg-name="CLARO CINEMA" group-title="PELICULAS Y SERIES",CLARO CINEMA
 http://181.79.87.132:8000/play/a0bh/index.m3u8
@@ -361,7 +370,7 @@ http://181.78.8.199:8000/play/a0dn/index.m3u8
 #EXTINF:-1 tvg-id="Disney.Jr.co" tvg-name="DISNEY JR" group-title="ANIMACIÓN",DISNEY JR
 http://181.78.8.199:8000/play/a084/index.m3u8
 #EXTINF:-1 tvg-id="DREAMWORKS HD.co" tvg-name="DREAMWORKS HD" group-title="ANIMACIÓN",DREAMWORKS HD
-http://181.78.14.26:4000/play/a047/index.m3u8
+http://190.61.114.186:8000/play/a03u/index.m3u8
 #EXTINF:-1 tvg-id="MAX.Anime.co" tvg-name="MAX ANIME" group-title="ANIMACIÓN",MAX ANIME
 https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Nick.Jr.co" tvg-name="NICK JR." group-title="ANIMACIÓN",NICK JR.
@@ -372,7 +381,6 @@ http://181.78.79.131:8000/play/a0qm
 http://209.14.119.178:8000/play/a02z/index.m3u8
 
 ==== DOCUMENTALES ====
-
 #EXTINF:-1 tvg-id="AE.co" tvg-name="A&E HD" group-title="DOCUMENTALES / REALITY",A&E HD
 http://209.14.119.178:8000/play/a050/index.m3u8
 #EXTINF:-1 tvg-id="Animal.Planet.HD.co" tvg-name="ANIMAL PLANET HD" group-title="DOCUMENTALES",ANIMAL PLANET HD
@@ -403,6 +411,7 @@ http://209.14.119.178:8000/play/a04j/index.m3u8
 ===== NOVELAS =====
 
 #EXTINF:-1 tvg-id="KanalD.co" tvg-name="KANAL D DRAMA" group-title="NOVELAS",KANAL D DRAMA
+http://186.33.27.9:8000/play/a014/index.m3u8
 http://181.78.8.199:8000/play/a083/index.m3u8
 #EXTINF:-1 tvg-id="Las.Estrellas.co" tvg-name="LAS ESTRELLAS" group-title="NOVELAS",LAS ESTRELLAS
 http://209.14.119.178:8000/play/a06a/index.m3u8
@@ -411,9 +420,9 @@ http://190.108.91.64:8000/play/a0fc/index.m3u8
 #EXTINF:-1 tvg-id="Lifetime.co" tvg-name="LIFETIME" group-title="NOVELAS",LIFETIME
 http://209.14.119.178:8000/play/a049/index.m3u8
 #EXTINF:-1 tvg-id="Panamericana.co" tvg-name="PANAMERICANA" group-title="NOVELAS",PANAMERICANA
-http://201.182.249.10:8000/play/a0oy/index.m3u8
+http://181.78.43.57:8000/play/a020
 #EXTINF:-1 tvg-id="Pasiones.co" tvg-name="PASIONES HD" group-title="NOVELAS",PASIONES HD
-http://201.182.249.10:8000/play/a0mg/index.m3u8
+http://181.119.203.146:8000/play/a0ov/index.m3u8
 #EXTINF:-1 tvg-id="Telemundo.co" tvg-name="TELEMUNDO" group-title="NOVELAS",TELEMUNDO
 http://181.78.8.199:8000/play/a0cg/index.m3u8
 http://209.14.119.178:8000/play/a030/index.m3u8
@@ -422,9 +431,8 @@ http://209.14.119.178:8000/play/a01h/index.m3u8
 #EXTINF:-1 tvg-id="TNTNovelas.co" tvg-name="TNT NOVELAS" group-title="NOVELAS",TNT NOVELAS
 http://209.14.119.178:8000/play/a052/index.m3u8
 #EXTINF:-1 tvg-id="Univision.co" tvg-name="UNIVISION" group-title="NOVELAS",UNIVISION
+http://190.60.47.179:8000/play/a080/index.m3u8
 http://38.95.86.8:61400/play/a05v/index.m3u8
-http://181.78.8.199:8000/play/a0er/index.m3u8
-
 
 ==== Maratones ====
 #EXTINF:-1 tvg-id="ElChavo.co" tvg-name="EL CHAVO" group-title="24/7",EL CHAVO

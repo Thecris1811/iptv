@@ -46,10 +46,13 @@ http://181.78.8.199:8000/play/a0dv/index.m3u8
 
 ===== Deportes ======
 #EXTINF:-1 tvg-id="WinSports.co" tvg-name="WIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/3840px-Win_Sports_nuevo_logo.svg.png" group-title="⚽ DEPORTES",WIN SPORTS
+http://181.79.87.130:8000/play/a02x/index.m3u8
+http://181.79.87.130:8000/play/a0ez/index.m3u8
 http://181.78.82.130:8000/play/a0qs/index.m3u8
 http://181.78.8.199:8000/play/a0cc/index.m3u8
 http://liontv.es:8080/live/Erick23/Sanchez2023/116020.m3u8
 #EXTINF:-1 tvg-id="WinSports.co" tvg-name="WIN SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/3840px-Win_Sports_nuevo_logo.svg.png" group-title="⚽ DEPORTES",WIN SPORTS HD
+http://190.60.46.228:8000/play/a02s/index.m3u8
 http://181.78.8.199:8000/play/a0ic/index.m3u8
 http://190.68.12.92:8000/play/a0ch/index.m3u8
 http://181.78.8.199:8000/play/a0cc/index.m3u8

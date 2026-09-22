@@ -46,21 +46,20 @@ http://181.78.8.199:8000/play/a0dv/index.m3u8
 
 ===== Deportes ======
 #EXTINF:-1 tvg-id="WinSports.co" tvg-name="WIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/3840px-Win_Sports_nuevo_logo.svg.png" group-title="⚽ DEPORTES",WIN SPORTS
+http://181.79.87.132:8000/play/a0ez/index.m3u8
 http://181.78.8.199:8000/play/a0ic/index.m3u8
 http://181.78.8.199:8000/play/a0cc/index.m3u8
-http://181.78.8.199:8000/play/a0ic/index.m3u8
 http://liontv.es:8080/live/Erick23/Sanchez2023/116020.m3u8
 #EXTINF:-1 tvg-id="WinSports.co" tvg-name="WIN SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/3840px-Win_Sports_nuevo_logo.svg.png" group-title="⚽ DEPORTES",WIN SPORTS HD
-http://190.68.12.92:8000/play/a0ch/index.m3u8
-http://179.1.14.75:14007/play/a03t/index.m3u8
 http://181.78.8.199:8000/play/winsport/index.m3u8
+http://190.68.12.92:8000/play/a0ch/index.m3u8
+http://181.78.8.199:8000/play/a0cc/index.m3u8
 #EXTINF:-1 tvg-id="WinSports.co" tvg-name="WIN SPORTS + (ALT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Win_Sports_nuevo_logo.svg" group-title="⚽ DEPORTES",WIN SPORTS +
 http://190.60.57.58:8000/play/a0uk/index.m3u8
 #EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-name="WIN SPORTS + FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Win%2B_F%C3%BAtbol_logo.svg" group-title="⚽ DEPORTES",WIN SPORTS + HD
 http://190.60.59.67:8000/play/a0ke
 http://190.61.63.140:8000/play/WIN/index.m3u8
 http://181.78.83.26:8000/play/a04z/index.m3u8
-
 #EXTINF:-1 tvg-id="DSports.ar" tvg-name="DIRECTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="⚽ DEPORTES",DIRECTV SPORTS
 http://190.108.91.64:8000/play/a0hj/index.m3u8
 http://187.102.208.209:8000/play/a09n/index.m3u8

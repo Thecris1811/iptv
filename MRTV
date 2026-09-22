@@ -159,7 +159,8 @@ https://estrellatv-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox.Sports.1.co" tvg-name="FOX DEPORTES" tvg-logo="https://es.wikipedia.org/wiki/Archivo:FOX_Deportes_logo.png" group-title="⚽ DEPORTES",FOX DEPORTES
 http://liontv.es:8080/live/WarrenOcampo/wG3SeSq2ge/555458.m3u8
 #EXTINF:-1 tvg-id="Fox.Sports.1.co" tvg-name="FOX ONE 1" tvg-logo="https://es.wikipedia.org/wiki/Archivo:FOX_Deportes_logo.png" group-title="⚽ DEPORTES",FOX ONE 1
-http://186.33.27.9:8000/play/a04j/index.m3u8
+http://181.79.178.77:8000/play/a0sz/index.m3u8
+http://186.33.61.182:8000/play/a07g/index.m3u8
 #EXTINF:-1 tvg-id="Fox.Sports.1.co" tvg-name="FOX ONE 2" tvg-logo="https://es.wikipedia.org/wiki/Archivo:FOX_Deportes_logo.png" group-title="⚽ DEPORTES",FOX ONE 2
 http://liontv.es:8080/live/HugoRamirez/HugoRamirez/1600018.m3u8
 

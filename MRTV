@@ -54,6 +54,7 @@ http://liontv.es:8080/live/Erick23/Sanchez2023/116020.m3u8
 http://38.199.241.97:8000/play/a026/index.m3u8
 http://181.78.8.199:8000/play/a0ic/index.m3u8
 #EXTINF:-1 tvg-id="WinSports.co" tvg-name="WIN SPORTS + (ALT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Win_Sports_nuevo_logo.svg" group-title="⚽ DEPORTES",WIN SPORTS +
+http://186.33.57.100:8000/play/a2la/index.m3u8
 http://181.78.82.130:8000/play/a0ds/index.m3u8
 http://190.60.57.58:8000/play/a0uk/index.m3u8
 #EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-name="WIN SPORTS + FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Win%2B_F%C3%BAtbol_logo.svg" group-title="⚽ DEPORTES",WIN SPORTS + HD
@@ -62,7 +63,6 @@ http://190.61.63.140:8000/play/WIN/index.m3u8
 http://181.78.83.26:8000/play/a04z/index.m3u8
 
 #EXTINF:-1 tvg-id="DSports.ar" tvg-name="DIRECTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="⚽ DEPORTES",DIRECTV SPORTS
-http://45.5.59.237:8000/play/a09o/index.m3u8
 http://190.108.91.64:8000/play/a0hj/index.m3u8
 http://187.102.208.209:8000/play/a09n/index.m3u8
 #EXTINF:-1 tvg-id="DSports.ar" tvg-name="DIRECTV SPORTS ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="⚽ DEPORTES",DIRECTV SPORTS 
@@ -70,14 +70,12 @@ http://45.188.229.33:8000/play/a1iw/index.m3u8
 http://liontv.es:8080/live/WarrenOcampo/wG3SeSq2ge/625589.m3u8
 #EXTINF:-1 tvg-id="DSports2.ar" tvg-name="DIRECTV SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png" group-title="⚽ DEPORTES",DIRECTV SPORTS 2
 http://190.108.91.64:8000/play/a0jf/index.m3u8
-http://181.78.82.130:8000/play/a0r4/index.m3u8
-http://187.102.208.209:8000/play/a0bq/index.m3u8
 #EXTINF:-1 tvg-id="DSports2.ar" tvg-name="DIRECTV SPORTS 2 (ALT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png" group-title="⚽ DEPORTES",DIRECTV SPORTS 2 
-http://45.5.59.237:8000/play/a066/index.m3u8
+http://187.102.208.209:8000/play/a0bq/index.m3u8
 http://liontv.es:8080/live/WarrenOcampo/wG3SeSq2ge/72.m3u8
 http://181.66.249.25:8000/play/a0lv/index.m3u8
 #EXTINF:-1 tvg-id="DSportsPlus.ar" tvg-name="DIRECTV SPORTS + SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRMox3syXH1w8KqA_cTnR07nhROukXUsOMKw&s" group-title="⚽ DEPORTES",DIRECTV SPORTS +
-http://liontv.es:8080/live/WarrenOcampo/wG3SeSq2ge/69.m3u8
+http://liontv.es:8080/live/Erick23/Sanchez2023/345293.m3u8
 http://181.66.249.25:8000/play/a0gq/index.m3u8
 http://livetv-plus.com/live/AMayorga/VSQYM/310535.m3u8
 #EXTINF:-1 tvg-id="DSportsPlus.ar" tvg-name="DIRECTV SPORTS + SD (ALT)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRMox3syXH1w8KqA_cTnR07nhROukXUsOMKw&s" group-title="⚽ DEPORTES",DIRECTV SPORTS +
@@ -92,7 +90,6 @@ http://45.162.77.10:8000/play/a04k/index.m3u8
 http://190.108.91.64:8000/play/a0d6/index.m3u8
 http://38.211.118.56:50002/play/a0fa/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.3.Sur.co" tvg-name="ESPN 3" tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-3-1024x357.png" group-title="⚽ DEPORTES",ESPN 3
-http://181.78.8.199:8000/play/a0ke/index.m3u8
 http://190.108.91.64:8000/play/a0cd/index.m3u8
 http://181.78.8.199:8000/play/a0b3/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.4.Sur.co" tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/3840px-ESPN_4_logo.svg.png" group-title="⚽ DEPORTES",ESPN 4
@@ -138,27 +135,26 @@ http://38.95.86.69:61400/play/a05j/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" group-title="⚽ DEPORTES",ESPN BRASIL
 http://miotv.cc:8080/L210cFE5ZmJUNFI4bkVTdno5dFFMZFVCY2VEQ3EyaFVTdEYwUzVCL1VLcz0
 #EXTINF:-1 tvg-id="Premiere.1.co" tvg-name="PREMIERE 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Premiere_%282017%29_logo.png" group-title="⚽ DEPORTES",PREMIERE 1
-http://liontv.es:8080/live/HugoRamirez/HugoRamirez/1377292.m3u8
+http://liontv.es:8080/live/Erick23/Sanchez2023/1377292.m3u8
 #EXTINF:-1 tvg-id="Premiere.2.co" tvg-name="PREMIERE 2" tvg-logo="https://i.pinimg.com/736x/45/85/75/45857537421cf0f7c7b1aab9b2ea6f9b.jpg" group-title="⚽ DEPORTES",PREMIERE 2
 http://lotv.plus/live/Alberto123/Alberto123/386150.m3u8
 #EXTINF:-1 tvg-name="PREMIERE 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Premiere_FC_logo.png/1280px-Premiere_FC_logo.png" group-title="⚽ DEPORTES",PREMIERE 3
-http://45.185.11.126:8000/play/a0av/index.m3u8
 http://lotv.plus/live/Alberto123/Alberto123/386037.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo.co" tvg-name="TELEMUNDO DEPORTES" group-title="⚽ DEPORTES",TELEMUNDO 
-http://liontv.es:8080/live/WarrenOcampo/wG3SeSq2ge/786402.m3u8
+http://liontv.es:8080/live/Erick23/Sanchez2023/1599542.m3u8
 http://186.33.27.9:8000/play/a04q/index.m3u8
 #EXTINF:-1 tvg-id="UNIVERSO.co" tvg-name="UNIVERSO" group-title="⚽ DEPORTES",UNIVERSO
-http://liontv.es:8080/live/WarrenOcampo/wG3SeSq2ge/1599543.m3u8
+http://liontv.es:8080/live/Erick23/Sanchez2023/850508.m3u8
 #EXTINF:-1 tvg-id="ESTRELLA TV.co" tvg-name="ESTRELLA TV" group-title="⚽ DEPORTES",ESTRELLA TV
 https://estrellatv-oando.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Fox.Sports.1.co" tvg-name="FOX DEPORTES" tvg-logo="https://es.wikipedia.org/wiki/Archivo:FOX_Deportes_logo.png" group-title="⚽ DEPORTES",FOX DEPORTES
-http://liontv.es:8080/live/WarrenOcampo/wG3SeSq2ge/555458.m3u8
+http://liontv.es:8080/live/Erick23/Sanchez2023/834953.m3u8
 #EXTINF:-1 tvg-id="Fox.Sports.1.co" tvg-name="FOX ONE 1" tvg-logo="https://es.wikipedia.org/wiki/Archivo:FOX_Deportes_logo.png" group-title="⚽ DEPORTES",FOX ONE 1
 http://186.33.61.182:8000/play/a07g/index.m3u8
 #EXTINF:-1 tvg-id="Fox.Sports.1.co" tvg-name="FOX ONE 2" tvg-logo="https://es.wikipedia.org/wiki/Archivo:FOX_Deportes_logo.png" group-title="⚽ DEPORTES",FOX ONE 2
-http://liontv.es:8080/live/HugoRamirez/HugoRamirez/1600018.m3u8
+http://liontv.es:8080/live/Erick23/Sanchez2023/1600015.m3u8
 
 #EXTINF:-1 tvg-id="AZTECA" tvg-name="AZTECA DEPORTES" tvg-logo="" group-title="⚽ DEPORTES",AZTECA DEPORTES 1
 http://45.130.161.15:8000/play/a024/index.m3u8
@@ -171,9 +167,7 @@ http://45.186.106.207:8000/play/a099/index.m3u8
 http://186.33.27.9:8000/play/a01o/index.m3u8
 http://181.119.177.253:8000/play/a0ds/index.m3u8
 #EXTINF:-1 tvg-id="TUDN.us" tvg-name="TUDN US" tvg-logo="https://newswiresync.com/wp-content/uploads/2025/12/tudn-fortalece-su-equipo-para.jpg" group-title="⚽ DEPORTES",TUDN US
-http://liontv.es:8080/live/WarrenOcampo/wG3SeSq2ge/834954.m3u8
-http://168.228.44.241:9998/play/a0b0/index.m3u8
-http://smarterstv99.dyndns.tv:25461/live/IselaGranad24/CbgVfaaXAqSj/334658.ts
+http://liontv.es:8080/live/Erick23/Sanchez2023/345274.m3u8
 
 #EXTINF:-1 tvg-id="Claro.Sports.co" tvg-name="CLARO SPORT" tvg-logo="https://e7.pngegg.com/pngimages/580/710/png-clipart-logo-claro-sports-graphics-vivo-logo-de-claro-text-logo.png" group-title="⚽ DEPORTES",CLARO SPORT
 http://181.78.50.141:8000/play/a01i/index.m3u8
@@ -183,18 +177,18 @@ http://186.33.61.182:8000/play/a00u/index.m3u8
 http://45.167.1.137:8000/play/a00e
 
 #EXTINF:-1 tvg-id="Bein.Sports.co" tvg-name="BEIN SPORT LATAM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/BeIN_Sports_en_Espa%C3%B1ol_2014_flat.svg/revision/latest?cb=20250511000522" group-title="⚽ DEPORTES",BEIN SPORT 1
-http://168.228.44.241:9997/play/a06q/index.m3u8
-http://liontv.es:8080/live/HugoRamirez/HugoRamirez/1396929.m3u8
+http://liontv.es:8080/live/Erick23/Sanchez2023/345285.m3u8
 #EXTINF:-1 tvg-id="Bein.Sports.Alt.co" tvg-name="BEIN SPORT LATAM (ALT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="⚽ DEPORTES",BEIN SPORT 2
 https://bein-esp-xumo.amagi.tv:443/playlistR720P.m3u8
 
 #EXTINF:-1 tvg-id="SKY.SPORTS.Alt.co" tvg-name="SKY SPORTS LATAM (ALT)" group-title="⚽ DEPORTES",SKY SPORTS
-http://liontv.es:8080/live/HugoRamirez/HugoRamirez/341550.m3u8
+http://liontv.es:8080/live/Erick23/Sanchez2023/1599535.m3u8
 http://181.119.99.243:8000/play/a02h/index.m3u8
 
 #EXTINF:-1 tvg-id="Fox.Sports.1.co" tvg-name="FOX SPORTS 1 ARG" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBKOTIV4JcdOmZTXPRSqu3Yt2hoxA8-9SF89nGTxkr7lq3kt2PjtcRhd1La2nJ37Awum571vCh2uRmxlDWVLGPueTspWV1Lgo5zYBQzQnSMri1QKFh6fEvyDoSsF3YQ7oC0XquBeTeEFEHmLc6-Yvqb5Vrl5KepDmmCW7hgIAHiThCgLePPU-8G-O_/s201/fsp-2023.png" group-title="⚽ DEPORTES",FOX SPORTS 1 ARG
 http://liontv.es:8080/live/HugoRamirez/HugoRamirez/843875.m3u8
 #EXTINF:-1 tvg-id="Fox.Sports.2.co" tvg-name="FOX SPORTS 2 ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/250px-Fox_Sports_2_Argentina_2023.svg.png" group-title="⚽ DEPORTES",FOX SPORTS 2 ARG
+http://45.170.130.224:8000/play/a027/index.m3u8
 http://liontv.es:8080/live/Erick23/Sanchez2023/92.m3u8
 #EXTINF:-1 tvg-id="Fox.Sports3.co" tvg-name="FOX SPORTS 3 ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Fox_Sports_3_Argentina_2023.svg" group-title="⚽ DEPORTES",FOX SPORTS 3 ARG
 http://liontv.es:8080/live/Erick23/Sanchez2023/96.m3u8
@@ -210,17 +204,17 @@ http://181.79.87.130:8000/play/a0e0/index.m3u8
 http://38.236.184.24:8000/play/a03g/index.m3u8
 
 #EXTINF:-1 tvg-id="DAZN.1.co" tvg-name="DAZN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/3840px-DAZN_logo.svg.png" group-title="⚽ DEPORTES",DAZN 1
-http://liontv.es:8080/live/WarrenOcampo/wG3SeSq2ge/1599551.m3u8
-#EXTINF:-1 tvg-id="DAZN.2.co" tvg-name="DAZN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/DAZN_2.svg" group-title="⚽ DEPORTES",DAZN 2 
-http://liontv.es:8080/live/WarrenOcampo/wG3SeSq2ge/1621071.m3u8
+http://liontv.es:8080/live/Erick23/Sanchez2023/1599551.m3u8
+#EXTINF:-1 tvg-id="DAZN.2.co" tvg-name="DAZN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/DAZN_2.svg" group-title="⚽ DEPORTES",DAZN 2
+http://liontv.es:8080/live/Erick23/Sanchez2023/345248.m3u8
+http://liontv.es:8080/live/Erick23/Sanchez2023/341898.m3u8
 #EXTINF:-1 tvg-id="Movistar.Deportes.pe" tvg-name="MOVISTAR DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/960px-Movistar_Deportes.svg.png" group-title="⚽ DEPORTES",MOVISTAR DEPORTES
-http://liontv.es:8080/live/WarrenOcampo/wG3SeSq2ge/1621030.m3u8
 http://liontv.es:8080/live/Erick23/Sanchez2023/1621024.m3u8
 #EXTINF:-1 tvg-id="Movistar.Deportes2.pe" tvg-name="MOVISTAR DEPORTES 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar_Deportes_2.svg/1280px-Movistar_Deportes_2.svg.png" group-title="⚽ DEPORTES",MOVISTAR LA LIGA
 http://liontv.es:8080/live/WarrenOcampo/wG3SeSq2ge/1620976.m3u8
 http://myultratv.com:8080/live/982298588tv/sr417z/12302.m3u8
 #EXTINF:-1 tvg-id="Movistar.Deportes2.pe" tvg-name="MOVISTAR DEPORTES 2 LIGA DE CAMPEONES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar_Deportes_2.svg/1280px-Movistar_Deportes_2.svg.png" group-title="⚽ DEPORTES",MOVISTAR + LIGA DE CAMPEONES
-http://liontv.es:8080/live/WarrenOcampo/wG3SeSq2ge/1620959.m3u8
+http://liontv.es:8080/live/Erick23/Sanchez2023/1620962.m3u8
 
 #EXTINF:-1 tvg-id="GolTV.co" tvg-name="GOL TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png" group-title="⚽ DEPORTES",GOL TV HD
 http://smarterstv99.dyndns.tv:25461/live/Viniciohern01/cvs4rSXCCztK/334794.m3u8
@@ -279,7 +273,6 @@ http://209.14.119.178:8000/play/a037/index.m3u8
 #EXTINF:-1 tvg-id="CINE PREMIUM" tvg-name="CINE PREMIUM" group-title="PELICULAS Y SERIES",CINE PREMIUM
 http://209.14.119.178:8000/play/a035/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.co" tvg-name="CINECANAL" group-title="PELICULAS Y SERIES",CINECANAL
-http://181.78.8.199:8000/play/a0kb/index.m3u8
 http://209.14.119.178:8000/play/a01p/index.m3u8
 #EXTINF:-1 tvg-id="Cinemax.co" tvg-name="CINEMAX" group-title="PELICULAS Y SERIES",CINEMAX
 http://190.60.59.60:8000/play/a0qa/index.m3u8
@@ -295,11 +288,9 @@ http://209.14.119.178:8000/play/a04h/index.m3u8
 #EXTINF:-1 tvg-id="FX.co" tvg-name="FX HD" group-title="PELICULAS Y SERIES",FX HD
 http://209.14.119.178:8000/play/a01z/index.m3u8
 #EXTINF:-1 tvg-id="Golden.co" tvg-name="GOLDEN" group-title="PELICULAS Y SERIES",GOLDEN
-http://181.78.8.199:8000/play/a0cj/index.m3u8
-http://187.102.208.83:8000/play/a008/index.m3u8
+http://138.94.3.106:8000/play/a00s/index.m3u8
 #EXTINF:-1 tvg-id="Golden.Edge.co" tvg-name="GOLDEN EDGE" group-title="PELICULAS Y SERIES",GOLDEN EDGE
-http://181.78.8.199:8000/play/a0ck/index.m3u8
-http://187.102.208.83:8000/play/a00j/index.m3u8
+http://138.94.3.106:8000/play/a00n/index.m3u8
 #EXTINF:-1 tvg-id="Golden.Plus.co" tvg-name="GOLDEN PLUS" group-title="PELICULAS Y SERIES",GOLDEN PLUS
 http://livetv-plus.com:8880/OTlSRkExUVZ3a0gvY3d3azdpd1M2MG5pdENVVnpLUGJlTVJBaU42czlVYz0
 #EXTINF:-1 tvg-id="HBO.co" tvg-name="HBO" group-title="PELICULAS Y SERIES",HBO
@@ -315,12 +306,12 @@ http://187.102.210.138:18000/play/a0fj/index.m3u8
 #EXTINF:-1 tvg-id="HBOXtreme.co" tvg-name="HBO XTREME" group-title="PELICULAS Y SERIES",HBO XTREME
 http://38.95.86.27:61400/play/a06b/index.m3u8
 #EXTINF:-1 tvg-id="Sony.SET.co" tvg-name="SONY CHANNEL" group-title="PELICULAS Y SERIES",SONY CHANNEL
+http://181.225.190.242:8000/play/a02u
 http://209.14.119.178:8000/play/a01r/index.m3u8
 #EXTINF:-1 tvg-id="Sony.SET.co" tvg-name="SONY MOVIES" group-title="PELICULAS Y SERIES",SONY MOVIES
 http://209.14.119.178:8000/play/a03b/index.m3u8
 #EXTINF:-1 tvg-id="SPACE.co" tvg-name="SPACE" group-title="PELICULAS Y SERIES",SPACE
-http://181.78.8.199:8000/play/a0jt/index.m3u8 
-http://209.14.119.178:8000/play/a01v/index.m3u8
+http://181.78.5.14:8000/play/a02l/index.m3u8
 #EXTINF:-1 tvg-id="Star.Channel.co" tvg-name="STAR CHANNEL HD" group-title="PELICULAS Y SERIES",STAR CHANNEL HD
 http://209.14.119.178:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="TCM.co" tvg-name="TCM" group-title="PELICULAS Y SERIES",TCM
@@ -352,11 +343,14 @@ http://191.97.49.82:8001/play/a00r/index.m3u8
 ==== ANIMACION =====
 
 #EXTINF:-1 tvg-id="Adult.Swim.co" tvg-name="ADULT SWIM" group-title="ANIMACIÓN",ADULT SWIM
-http://181.78.8.199:8000/play/a0ah/index.m3u8
+http://181.78.5.14:8000/play/a028/index.m3u8
+http://181.78.43.57:8000/play/a017
 #EXTINF:-1 tvg-id="BITME.co" tvg-name="BITME" group-title="ANIMACIÓN",BITME
-http://181.78.8.199:8000/play/a0ga/index.m3u8
+http://181.78.5.14:8000/play/a02a/index.m3u8
+http://181.225.190.242:8000/play/a00d
 #EXTINF:-1 tvg-id="Cartoon.Network.co" tvg-name="CARTOON NETWORK" group-title="ANIMACIÓN",CARTOON NETWORK
-http://181.78.8.199:8000/play/a095/index.m3u8
+http://181.78.43.57:8000/play/a00t
+http://138.94.3.106:8000/play/a00j/index.m3u8
 #EXTINF:-1 tvg-id="Discovery.Kids.co" tvg-name="DISCOVERY KIDS" group-title="ANIMACIÓN",DISCOVERY KIDS
 http://38.211.118.56:50002/play/a0ey/index.m3u8
 #EXTINF:-1 tvg-id="Disney.Channel.HD2.co" tvg-name="DISNEY CHANNEL HD2" group-title="ANIMACIÓN",DISNEY CHANNEL HD
@@ -366,7 +360,7 @@ http://181.78.8.199:8000/play/a084/index.m3u8
 #EXTINF:-1 tvg-id="DREAMWORKS HD.co" tvg-name="DREAMWORKS HD" group-title="ANIMACIÓN",DREAMWORKS HD
 http://186.33.27.9:8000/play/a04e/index.m3u8
 #EXTINF:-1 tvg-id="MAX.Anime.co" tvg-name="MAX ANIME" group-title="ANIMACIÓN",MAX ANIME
-https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8
+http://138.94.3.106:8000/play/a07z/index.m3u8
 #EXTINF:-1 tvg-id="Nick.Jr.co" tvg-name="NICK JR." group-title="ANIMACIÓN",NICK JR.
 http://38.211.118.56:50002/play/a0gf/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.co" tvg-name="NICKELODEON HD" group-title="ANIMACIÓN",NICKELODEON HD
@@ -403,7 +397,6 @@ http://209.14.119.178:8000/play/a01n/index.m3u8
 http://209.14.119.178:8000/play/a04j/index.m3u8
 
 ===== NOVELAS =====
-
 #EXTINF:-1 tvg-id="KanalD.co" tvg-name="KANAL D DRAMA" group-title="NOVELAS",KANAL D DRAMA
 http://186.33.27.9:8000/play/a014/index.m3u8
 http://181.78.8.199:8000/play/a083/index.m3u8
@@ -430,22 +423,24 @@ http://38.95.86.8:61400/play/a05v/index.m3u8
 
 ==== Maratones ====
 #EXTINF:-1 tvg-id="ElChavo.co" tvg-name="EL CHAVO" group-title="24/7",EL CHAVO
-http://liontv.es:8080/live/WarrenOcampo/wG3SeSq2ge/361281.m3u8
+http://liontv.es:8080/live/Erick23/Sanchez2023/361281.m3u8
 #EXTINF:-1 tvg-id="DEATH NOTE.co" tvg-name="DEATH NOTE" group-title="24/7",DEATH NOTE
-http://liontv.es:8080/live/WarrenOcampo/wG3SeSq2ge/806497.m3u8
+http://liontv.es:8080/live/Erick23/Sanchez2023/806497.m3u8
 #EXTINF:-1 tvg-id="Ben10.co" tvg-name="BEN 10" group-title="24/7",BEN 10
-http://liontv.es:8080/live/WarrenOcampo/wG3SeSq2ge/766045.m3u8
+http://liontv.es:8080/live/Erick23/Sanchez2023/766045.m3u8
 #EXTINF:-1 tvg-id="DragonBallZ.co" tvg-name="DRAGON BALL Z" group-title="24/7",DRAGON BALL Z
-http://liontv.es:8080/live/WarrenOcampo/wG3SeSq2ge/823248.m3u8
+http://liontv.es:8080/live/Erick23/Sanchez2023/767987.m3u8
 #EXTINF:-1 tvg-id="ExpedienteX.co" tvg-name="EXPEDIENTE X" group-title="24/7",EXPEDIENTE X
-http://liontv.es:8080/live/WarrenOcampo/wG3SeSq2ge/837088.m3u8
+http://liontv.es:8080/live/Erick23/Sanchez2023/837088.m3u8
 #EXTINF:-1 tvg-id="Futurama.co" tvg-name="FUTURAMA" group-title="24/7",FUTURAMA
-http://liontv.es:8080/live/WarrenOcampo/wG3SeSq2ge/459362.m3u8
+http://liontv.es:8080/live/Erick23/Sanchez2023/459362.m3u8
 #EXTINF:-1 tvg-id="LooneyTunes.co" tvg-name="LOONEY TUNES" group-title="24/7",LOONEY TUNES
-http://liontv.es:8080/live/WarrenOcampo/wG3SeSq2ge/459356.m3u8
+http://liontv.es:8080/live/Erick23/Sanchez2023/459356.m3u8
 #EXTINF:-1 tvg-id="LosPadrinosMagicos.co" tvg-name="LOS PADRINOS MAGICOS" group-title="24/7",LOS PADRINOS MAGICOS
-http://liontv.es:8080/live/WarrenOcampo/wG3SeSq2ge/766990.m3u8
+http://liontv.es:8080/live/Erick23/Sanchez2023/766990.m3u8
 #EXTINF:-1 tvg-id="OnePiece.co" tvg-name="ONE PIECE" group-title="24/7",ONE PIECE
-http://liontv.es:8080/live/WarrenOcampo/wG3SeSq2ge/457025.m3u8
+http://liontv.es:8080/live/Erick23/Sanchez2023/457025.m3u8
 #EXTINF:-1 tvg-id="TheBigBangTheory.co" tvg-name="THE BIG BANG THEORY" group-title="24/7",THE BIG BANG THEORY
-http://liontv.es:8080/live/WarrenOcampo/wG3SeSq2ge/762438.m3u8
+http://liontv.es:8080/live/Erick23/Sanchez2023/762438.m3u8
+
+#EXTINF:-1 tvg-id="DisneyEspn.co" tvg-name="Disney espn" group-title="Eventos",ESPN DISNEY +

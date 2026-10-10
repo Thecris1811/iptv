@@ -66,8 +66,8 @@ http://181.78.83.26:8000/play/a04z/index.m3u8
 http://190.108.91.64:8000/play/a0hj/index.m3u8
 http://187.102.208.209:8000/play/a09n/index.m3u8
 #EXTINF:-1 tvg-id="DSports.ar" tvg-name="DIRECTV SPORTS ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="⚽ DEPORTES",DIRECTV SPORTS
+http://45.5.59.237:8000/play/a09o/index.m3u8
 http://190.60.57.58:8000/play/a1a0/index.m3u8
-http://45.186.254.75:8000/play/a0en/index.m3u8 
 http://190.234.82.52:8000/play/c4pn/index.m3u8
 #EXTINF:-1 tvg-id="DSports2.ar" tvg-name="DIRECTV SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png" group-title="⚽ DEPORTES",DIRECTV SPORTS 2
 http://190.108.91.64:8000/play/a0jf/index.m3u8

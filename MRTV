@@ -317,6 +317,7 @@ http://181.78.5.14:8000/play/a02l/index.m3u8
 #EXTINF:-1 tvg-id="Star.Channel.co" tvg-name="STAR CHANNEL HD" group-title="PELICULAS Y SERIES",STAR CHANNEL HD
 http://209.14.119.178:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="TCM.co" tvg-name="TCM" group-title="PELICULAS Y SERIES",TCM
+http://200.10.163.10:8000/play/a01k/index.m3u8
 http://209.14.119.178:8000/play/a033/index.m3u8
 #EXTINF:-1 tvg-id="TNT.co" tvg-name="TNT HD" group-title="PELICULAS Y SERIES",TNT HD
 http://209.14.119.178:8000/play/a01o/index.m3u8

@@ -60,22 +60,17 @@ http://152.231.29.130:8000/play/a0c3/index.m3u8
 http://190.60.59.67:8000/play/a0ke
 
 #EXTINF:-1 tvg-id="DSports.ar" tvg-name="DIRECTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="⚽ DEPORTES",DIRECTV SPORTS
-http://190.108.91.64:8000/play/a0hj/index.m3u8
-http://187.102.208.209:8000/play/a09n/index.m3u8
+http://190.235.207.217:8000/play/a13s/index.m3u8
+http://200.106.13.15:8000/play/a07s/index.m3u8
 #EXTINF:-1 tvg-id="DSports.ar" tvg-name="DIRECTV SPORTS ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="⚽ DEPORTES",DIRECTV SPORTS
-http://zujicarg.xandoria.cc/live/CT4496MXS5VBUN2/mdexwonAIB/325570.m3u8
-http://45.5.59.237:8000/play/a09o/index.m3u8
-http://190.60.57.58:8000/play/a1a0/index.m3u8
-http://190.234.82.52:8000/play/c4pn/index.m3u8
+http://38.224.231.176:8000/play/a08d/index.m3u8
 #EXTINF:-1 tvg-id="DSports2.ar" tvg-name="DIRECTV SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png" group-title="⚽ DEPORTES",DIRECTV SPORTS 2
-http://190.108.91.64:8000/play/a0jf/index.m3u8
+http://200.121.20.65:8000/play/a0jn/index.m3u8
+http://45.5.59.237:8000/play/a066/index.m3u8
 #EXTINF:-1 tvg-id="DSports2.ar" tvg-name="DIRECTV SPORTS 2 (ALT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png" group-title="⚽ DEPORTES",DIRECTV SPORTS 2 
-http://200.106.13.15:8000/play/a06q/index.m3u8
-http://187.102.208.209:8000/play/a0bq/index.m3u8
-http://liontv.es:8080/live/WarrenOcampo/wG3SeSq2ge/72.m3u8
-http://181.66.249.25:8000/play/a0lv/index.m3u8
+http://45.5.59.237:8000/play/a066/index.m3u8
 #EXTINF:-1 tvg-id="DSportsPlus.ar" tvg-name="DIRECTV SPORTS + SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRMox3syXH1w8KqA_cTnR07nhROukXUsOMKw&s" group-title="⚽ DEPORTES",DIRECTV SPORTS +
-http://liontv.es:8080/live/Erick23/Sanchez2023/345293.m3u8
+http://200.121.20.65:8000/play/a0jo/index.m3u8
 http://181.66.249.25:8000/play/a0gq/index.m3u8
 http://livetv-plus.com/live/AMayorga/VSQYM/310535.m3u8
 #EXTINF:-1 tvg-id="DSportsPlus.ar" tvg-name="DIRECTV SPORTS + SD (ALT)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRMox3syXH1w8KqA_cTnR07nhROukXUsOMKw&s" group-title="⚽ DEPORTES",DIRECTV SPORTS +
@@ -83,7 +78,7 @@ http://45.5.59.237:8000/play/a011/index.m3u8
 http://livetv-plus.com:8880/OTlSRkExUVZ3a0gvY3d3azdpd1M2MXIvV2k0b2d3M2lUSStIL01OU0daST0
 
 #EXTINF:-1 tvg-id="ESPN.Sur" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="⚽ DEPORTES",ESPN
-http://190.60.39.221:8000/play/a06g/index.m3u8
+http://179.1.139.84:8000/play/a0if/index.m3u8
 http://191.97.14.162:8000/play/a038/index.m3u8
 http://181.225.190.242:8000/play/a01l
 #EXTINF:-1 tvg-id="ESPN.2.Sur.co" tvg-name="ESPN 2" tvg-logo="https://static.wikia.nocookie.net/espn/images/7/79/ESPN2-Logo-D795.png/revision/latest?cb=20130819193813" group-title="⚽ DEPORTES",ESPN 2
@@ -91,7 +86,8 @@ http://190.60.39.221:8000/play/a06l/index.m3u8
 http://181.78.8.199:8000/play/a0ka/index.m3u8
 http://190.108.91.64:8000/play/a0d6/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.3.Sur.co" tvg-name="ESPN 3" tvg-logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-3-1024x357.png" group-title="⚽ DEPORTES",ESPN 3
-http://201.234.124.235:8000/play/a0i1/index.m3u8
+http://38.199.30.178:8000/play/a0xf/index.m3u8
+http://38.199.30.178:8000/play/a0v2/index.m3u8
 http://181.78.8.199:8000/play/a0b3/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.4.Sur.co" tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/3840px-ESPN_4_logo.svg.png" group-title="⚽ DEPORTES",ESPN 4
 http://45.162.77.10:8000/play/a04l/index.m3u8
@@ -114,7 +110,7 @@ http://38.224.22.255:8000/play/a0bq/index.m3u8
 http://190.108.91.64:8000/play/a0fb/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.Sur" tvg-name="ESPN ARG" group-title="⚽ DEPORTES",ESPN ARG
-http://179.1.139.84:8000/play/a0if/index.m3u8
+http://190.60.39.221:8000/play/a06g/index.m3u8
 http://190.60.60.114:8000/play/a039/index.m3u8
 http://liontv.es:8080/live/WarrenOcampo/wG3SeSq2ge/335366.m3u8
 
@@ -447,4 +443,178 @@ http://liontv.es:8080/live/Erick23/Sanchez2023/457025.m3u8
 #EXTINF:-1 tvg-id="TheBigBangTheory.co" tvg-name="THE BIG BANG THEORY" group-title="24/7",THE BIG BANG THEORY
 http://liontv.es:8080/live/Erick23/Sanchez2023/762438.m3u8
 
-#EXTINF:-1 tvg-id="DisneyEspn.co" tvg-name="Disney espn" group-title="Eventos",ESPN DISNEY +
+=== Attack of Titans ===
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S01 E01" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S01 E01
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870205.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S01 E02" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S01 E02
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870206.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S01 E03" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S01 E03
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870207.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S01 E04" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S01 E04
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870208.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S01 E05" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S01 E05
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870209.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S01 E06" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S01 E06
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870210.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S01 E07" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S01 E07
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870211.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S01 E08" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S01 E08
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870212.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S01 E09" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S01 E09
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870213.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S01 E10" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S01 E10
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870214.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S01 E11" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S01 E11
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870215.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S01 E12" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S01 E12
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870216.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S01 E13" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S01 E13
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870217.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S01 E14" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S01 E14
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870218.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S01 E15" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S01 E15
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870219.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S01 E16" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S01 E16
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870220.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S01 E17" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S01 E17
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870221.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S01 E18" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S01 E18
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870222.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S01 E19" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S01 E19
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870223.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S01 E20" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S01 E20
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870224.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S01 E21" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S01 E21
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870225.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S01 E22" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S01 E22
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870226.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S01 E23" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S01 E23
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870227.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S01 E24" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S01 E24
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870228.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S01 E25" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S01 E25
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870229.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S02 E01" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S02 E01
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870230.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S02 E02" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S02 E02
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870231.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S02 E03" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S02 E03
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870232.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S02 E04" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S02 E04
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870233.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S02 E05" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S02 E05
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870234.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S02 E06" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S02 E06
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870235.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S02 E07" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S02 E07
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870236.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S02 E08" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S02 E08
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870237.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S02 E09" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S02 E09
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870238.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S02 E10" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S02 E10
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870239.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S02 E11" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S02 E11
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870240.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S02 E12" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S02 E12
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870241.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S03 E01" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S03 E01
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870242.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S03 E02" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S03 E02
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870243.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S03 E03" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S03 E03
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870244.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S03 E04" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S03 E04
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870245.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S03 E05" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S03 E05
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870246.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S03 E06" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S03 E06
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870247.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S03 E07" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S03 E07
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870248.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S03 E08" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S03 E08
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870249.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S03 E09" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S03 E09
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870250.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S03 E10" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S03 E10
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870251.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S03 E11" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S03 E11
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870252.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S03 E12" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S03 E12
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870253.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S03 E13" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S03 E13
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870254.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S03 E14" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S03 E14
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870255.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S03 E15" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S03 E15
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870256.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S03 E16" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S03 E16
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870257.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S03 E17" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S03 E17
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870258.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S03 E18" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S03 E18
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870259.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S03 E19" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S03 E19
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870260.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S03 E20" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S03 E20
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870261.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S03 E21" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S03 E21
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870262.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S03 E22" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S03 E22
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870263.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S04 E01" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S04 E01
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870264.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S04 E02" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S04 E02
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870265.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S04 E03" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S04 E03
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870266.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S04 E04" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S04 E04
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870267.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S04 E05" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S04 E05
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870268.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S04 E06" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S04 E06
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870269.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S04 E07" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S04 E07
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870270.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S04 E08" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S04 E08
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870271.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S04 E09" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S04 E09
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870272.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S04 E10" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S04 E10
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870273.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S04 E11" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S04 E11
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870274.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S04 E12" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S04 E12
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870275.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S04 E13" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S04 E13
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870276.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S04 E14" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S04 E14
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870277.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S04 E15" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S04 E15
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870278.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S04 E16" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S04 E16
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870279.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S04 E17" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S04 E17
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870280.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S04 E18" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S04 E18
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870281.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S04 E19" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S04 E19
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870282.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S04 E20" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S04 E20
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870283.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S04 E21" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S04 E21
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870284.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S04 E22" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S04 E22
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870285.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S04 E23" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S04 E23
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870286.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S04 E24" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S04 E24
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870287.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S04 E25" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S04 E25
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870288.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S04 E26" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S04 E26
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870289.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S04 E27" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S04 E27
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870290.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque a los titanes S04 E28" tvg-logo="https://image.tmdb.org/t/p/original/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg" group-title="ANIME",Ataque a los titanes S04 E28
+http://latinostream.xyz:8080/series/chernandez/f7PZbpCvhf/870291.mkv
